@@ -1,0 +1,17 @@
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\GLTester.exe.config
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\GLTester.exe
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\GLTester.pdb
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.dll
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.GLControl.dll
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.pdb
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.xml
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\OpenTK.GLControl.xml
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.csproj.AssemblyReference.cache
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.csproj.CoreCompileInputs.cache
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.csproj.CopyComplete
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.exe
+C:\Users\murtazinif\source\repos\GLTester\GLTester\obj\Debug\GLTester.pdb
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\Shaderz\BaseShader\BaseShader.frag
+C:\Users\murtazinif\source\repos\GLTester\GLTester\bin\Debug\Shaderz\BaseShader\BaseShader.vert
